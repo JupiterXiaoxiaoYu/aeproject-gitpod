@@ -1,0 +1,14 @@
+tasks:
+- name: Setup Dev Environment
+  before: |
+    npm i -g @aeternity/aeproject@^4.6.1
+    npm i
+  init: |
+    aeproject env
+  command: |
+    aeproject -V
+    aeproject --help
+
+vscode:
+  extensions:
+    - hackbg.sophia
