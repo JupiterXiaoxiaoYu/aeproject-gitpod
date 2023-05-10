@@ -1,4 +1,4 @@
-# aeproject-boilerplate-gitpod [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/marc0olo/aeproject-boilerplate-gitpod)
+# aeproject-boilerplate-gitpod [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/JupiterXiaoxiaoYu/aeproject-boilerplate-gitpod)
 
 This is a boilerplate to easily get started with [Sophia](https://docs.aeternity.com/aesophia) Smart Contract development using [aeproject](https://docs.aeternity.com/aeproject).
 
